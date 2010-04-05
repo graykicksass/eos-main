@@ -1,0 +1,7 @@
+Eternity Coding Style Guide:
+============================
+Last Modified: 4/4/2010 - Gray
+
+Since Eternity's goal in part reaches for consistent coding style, code should conform to certain style guides.
+
+For the most part, it should conform to the webkit style guide here: http://webkit.org/coding/coding-style.html. EXCEPT for python which will use a tab indent instead of 4 spaces.
