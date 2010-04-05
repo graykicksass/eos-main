@@ -1,0 +1,7 @@
+Eternity OS Early Code
+======================
+Last Updated: 4/4/2010 - Gray
+
+So here it is, the initial work on Eterity. After _MANY_ personal prototypes, this is the early groundwork for Eternity OS. Code here should be considered more prototype work then anything. But it should stay consistent with the style guide (STYLE_GUIDE).
+
+Documentation of planned frameworks should go in /docs/.
