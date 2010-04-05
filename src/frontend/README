@@ -1,0 +1,4 @@
+Frontend
+=====================
+
+This provides the XHTML/JS display front end. Currently based on XULRunner. It includes binaries as of 4/4/2010 but it should be no problem to build the regular XULRunner from source and run it with the config file from this directory.
