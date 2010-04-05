@@ -1,0 +1,4 @@
+Framework_Frontend
+======================
+
+This is the base project that communicates with the Eternity framework server & draws windows and elements. It is basically the X11 of Eternity.

@@ -1,0 +1,10 @@
+Eternity Core
+===================
+
+Alright, a simple breakdown of how this system will work:
+
+	- Frontend will be rendered in XHTML and provide the display for the screen.
+	- Frontend_Client will define the majority of the look and feel across the OS.
+	- Frontend_Client will connect to the framework server to get objects on screen, objects can be updated by the framework server.
+	- The framework server hosts APIs provided to Eternity applications and provides the bridge between an app and the desktop client.
+	- Applications will connect to the framework server via tcp or named pipe.

@@ -1,0 +1,6 @@
+Linux Sled
+===================
+
+Behind the frontend and code of the Eternity framework, the Linux Sled provides the OS functionality. It is abstracted through the Eternity Framework.
+
+So far, the specs on this aren't clear, but it should likely come from a debian base.
